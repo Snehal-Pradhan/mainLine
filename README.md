@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="public/logo.png" alt="mainline logo" width="300" >
+  <img src="public/logo.png" alt="mainline logo" width="450" >
 </p>
 
 
